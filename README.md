@@ -1,2 +1,2 @@
-# coding-exercies
+# coding-exercices
 Hacktober
